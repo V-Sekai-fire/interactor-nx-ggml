@@ -21,4 +21,4 @@ mix test
 
 ## Licence
 
-The licence is not stated. The vendored ggml carries its own MIT licence.
+MIT. See [LICENSE](LICENSE). The vendored ggml carries its own MIT licence.
